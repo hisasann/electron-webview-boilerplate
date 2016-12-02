@@ -1,0 +1,16 @@
+{
+  "name": "electron-webview-boilerplate",
+  "productName": "ElectronWebViewBoilerplate",
+  "version": "0.1.0",
+  "description": "Electron application boilerplate based on React, React Router, Webpack, React Hot Loader for rapid application development",
+  "main": "./main.js",
+  "author": {
+    "name": "hisasann",
+    "email": "hisasann25@gmail.com",
+    "url": "https://github.com/hisasann"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "^5.0.0"
+  }
+}
